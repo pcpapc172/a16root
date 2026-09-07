@@ -52,6 +52,7 @@ struct kernel_offsets {
 static const struct kernel_offsets known_offsets[] = {
 
 #include "emerald/offsets.h"
+#include "a16/offsets.h"
   { .uname_r = NULL }
 };
 
