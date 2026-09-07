@@ -1,5 +1,5 @@
 /* SM-A165F / A165FXXSADZF2 — do not mix with emerald POCO values */
-OFFSETS_ENTRY("6.12.38-android16-6-abA165FXXSADZF2-4k",
+OFFSETS_ENTRY("6.12.38-android16-5-abA165FXXSADZF2-4k",
   .kernel_phys_load=0x40000000, .phys_offset=0x40000000, STRUCT_OFFSETS_6_12,
 
   .off_init_task=0x0252cf40,
